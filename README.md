@@ -25,5 +25,5 @@ The C++ (`.ino`) firmware was developed using the Arduino IDE and features:
 *   `/src`: Contains the `snake_game.ino` source code and necessary dependencies.
 *   `/docs`: Includes the detailed project report (Memoria), circuit schematics, and pseudocode algorithms.
 
-## 📚 Libraries Used
+## Libraries Used
 *   `LedControl.h`: For SPI communication and matrix cascading[cite: 6].
