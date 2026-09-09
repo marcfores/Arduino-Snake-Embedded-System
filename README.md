@@ -26,4 +26,4 @@ The C++ (`.ino`) firmware was developed using the Arduino IDE and features:
 *   `/docs`: Includes the detailed project report (Memoria), circuit schematics, and pseudocode algorithms.
 
 ## Libraries Used
-*   `LedControl.h`: For SPI communication and matrix cascading[cite: 6].
+*   `LedControl.h`: For SPI communication and matrix cascading.
